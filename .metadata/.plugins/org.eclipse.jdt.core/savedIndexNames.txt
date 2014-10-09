@@ -1,3 +1,0 @@
-INDEX VERSION 1.127+/Users/Nick/Documents/java/.metadata/.plugins/org.eclipse.jdt.core
-1906025225.index
-820718315.index
