@@ -1,5 +1,4 @@
 RemoteSystemsTempFiles
 testing
-.metadata
-.recommenders
-.gitignore
+.*
+!/.gitignore
